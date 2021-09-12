@@ -8,5 +8,8 @@
 {registered,[mymath]},
 {applications, [kernel,stdlib]},
 {mod, {mymath_app,[]}},
-{start_phases, []}
+{start_phases, []},
+{git_path,"https://github.com/joq62/mymath.git"},
+{env,[]},
+{hosts_needed,[]}
 ]}.
